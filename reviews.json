@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Jane Smith",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Smith is an amazing professor! Her lectures are engaging, and she genuinely cares about her students."
+      },
+      {
+        "professor": "Prof. John Doe",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Prof. Doe knows his material, but his teaching style is a bit dry. The class can be challenging."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Modern History",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable and presents the material in an interesting way. Sometimes, the workload is a bit heavy."
+      },
+      {
+        "professor": "Prof. Michael Lee",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Prof. Lee is very strict and not very approachable. The course is difficult, and his explanations can be unclear."
+      },
+      {
+        "professor": "Dr. Karen Davis",
+        "subject": "Computer Science 101",
+        "stars": 5,
+        "review": "Dr. Davis is fantastic! She explains complex concepts clearly and is always available for help."
+      },
+      {
+        "professor": "Prof. William Brown",
+        "subject": "Introduction to Literature",
+        "stars": 4,
+        "review": "Prof. Brown makes the class enjoyable with his humor and passion for literature. Sometimes, the grading is tough."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "Biology 101",
+        "stars": 3,
+        "review": "Dr. Wilson's lectures are informative, but she tends to go through the material too quickly."
+      },
+      {
+        "professor": "Prof. James Moore",
+        "subject": "Philosophy 101",
+        "stars": 4,
+        "review": "Prof. Moore encourages critical thinking and class discussions. His grading can be subjective, though."
+      },
+      {
+        "professor": "Dr. Linda Taylor",
+        "subject": "Economics 101",
+        "stars": 5,
+        "review": "Dr. Taylor is a wonderful professor who makes economics interesting and accessible. Highly recommend!"
+      },
+      {
+        "professor": "Prof. Robert White",
+        "subject": "Physics I",
+        "stars": 2,
+        "review": "Prof. White's lectures are hard to follow, and he doesn’t seem very interested in teaching."
+      },
+      {
+        "professor": "Dr. Jennifer Harris",
+        "subject": "Sociology 101",
+        "stars": 5,
+        "review": "Dr. Harris is a great professor! She is very engaging and makes sociology relevant to everyday life."
+      },
+      {
+        "professor": "Prof. Richard Martin",
+        "subject": "World History",
+        "stars": 3,
+        "review": "Prof. Martin knows his stuff, but his lectures can be a bit boring. The exams are fair, though."
+      },
+      {
+        "professor": "Dr. Elizabeth King",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. King is passionate about art and it shows in her lectures. The class is interesting, but the workload can be heavy."
+      },
+      {
+        "professor": "Prof. David Young",
+        "subject": "Statistics 101",
+        "stars": 3,
+        "review": "Prof. Young is decent, but his explanations are sometimes confusing. The course is manageable with extra effort."
+      },
+      {
+        "professor": "Dr. Patricia Gonzalez",
+        "subject": "Chemistry 101",
+        "stars": 4,
+        "review": "Dr. Gonzalez is very knowledgeable and helpful. The labs are challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Charles Walker",
+        "subject": "Political Science 101",
+        "stars": 5,
+        "review": "Prof. Walker is amazing! He makes political science exciting and is always open to students' opinions."
+      },
+      {
+        "professor": "Dr. Barbara Hall",
+        "subject": "English Literature",
+        "stars": 2,
+        "review": "Dr. Hall's class is tough, and she has high expectations. The reading load is heavy, and the grading is harsh."
+      },
+      {
+        "professor": "Prof. Steven Allen",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Prof. Allen is passionate about the environment and makes the class engaging. The field trips are a highlight!"
+      },
+      {
+        "professor": "Dr. Angela Robinson",
+        "subject": "Anthropology 101",
+        "stars": 5,
+        "review": "Dr. Robinson is an outstanding professor! Her lectures are fascinating, and she genuinely cares about her students."
+      },
+      {
+        "professor": "Prof. Kevin Harris",
+        "subject": "Microeconomics",
+        "stars": 3,
+        "review": "Prof. Harris is knowledgeable, but his lectures can be a bit monotonous. The course is challenging but fair."
+      }
+    ]
+  }
+  
